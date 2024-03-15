@@ -8,15 +8,7 @@ This daemon is confirmed working with the miners below in both dual-mining and g
 * srbminer
 * teamreadminer
 
-No fee, forever. Do what you want with it.
 
-Discord discussions/issues: [here](https://discord.com/channels/599153230659846165/1025501807570600027) 
-
-Huge shoutout to https://github.com/KaffinPX/KStratum for the inspiration
-  
-Tips appreciated: `gor:qp9v6090sr8jjlkq7r3f4h9un5rtfhu3raknfg3cca9eapzee57jzew0kxwlp`
-
-Try my 0-fee [gor Pool](http://ghost-pool.io/) built with this code!
 
 
 ## Hive Setup
